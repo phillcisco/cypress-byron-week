@@ -9,7 +9,7 @@ describe('validação de usuário', () => {
     
     const h1Txt = "AutomationExercise";
     const h2SignUp = 'New User Signup!';
-    const h2UserCreated = 'Account Created!';
+    const h2UserCreated = 'Account Create';
     const userInfo = {
 
       nome: 'Blastoise',
