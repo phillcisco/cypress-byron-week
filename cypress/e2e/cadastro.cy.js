@@ -8,8 +8,8 @@ describe('validação de usuário', () => {
   it('cadastrar usuário', () => {
     
     const h1Txt = "AutomationExercise";
-    const h2SignUp = 'New User Signup!';
-    const h2UserCreated = 'Account Create';
+    const h2SignUp = 'New User Signp!';
+    const h2UserCreated = 'Account Created!';
     const userInfo = {
 
       nome: 'Blastoise',
